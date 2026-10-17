@@ -43,8 +43,8 @@ brew install --cask openwhispr
 ## Quick start
 
 ```bash
-git clone https://github.com/NaniSontyana/symbiot.git
-cd symbiot
+git clone https://github.com/NaniSontyana/The_new_symbiot.git
+cd The_new_symbiot
 npm install
 npm run dev
 ```
